@@ -1,0 +1,8 @@
+ls 			--> list directory and files
+ls -la	 		--> list hidden and line by line
+man <command> 		--> manual paper
+git --help or git -h 	--> Help page for git
+pwd 			--> print working directory location
+mkdir <folder name>	--> directory creation
+cd <folder name>	--> change directory or go to.
+cd .. 			--> go back to previous folder.

@@ -8,5 +8,4 @@ If you want to connect with mentors/Trainors, here are their profiles:
 2. [Deshant Devkota](https://www.linkedin.com/in/deshantdevkota/)
 3. [Deepak Nagarkoti](https://linktr.ee/ndeepak_)
 4. [Laviz Pandey](https://github.com/lavizp/lavizp)
-5. 
-6. 
+5. [Animesh Acharya](https://www.facebook.com/animesh.acharya.5243) 
